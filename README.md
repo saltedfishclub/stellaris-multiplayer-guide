@@ -7,6 +7,8 @@ Many players have suffered from the built-in multiplayer feature of Stellaris. T
 > Although we use tools from the piracy community, we strongly recommend using clean game files from Steam. Otherwise, we cannot guarantee that this guide will work.  
 > Specifically, this guide is based on Stellaris version 4.1.1 hotfix.
 
+tl;dr: Download `bundle_for_lazies.7z` from releases, decompress it to your game installation folder, overrride conflicting files, and change `custom_broadcasts.txt` to Host IP then it should be enough to work flawlessly.
+
 ## Instructions
 
 ### 1. Ensure Connectivity Between Players (Usually via VPN)
